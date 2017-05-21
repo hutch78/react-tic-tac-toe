@@ -37,9 +37,9 @@ class GameBoardSquare extends Component {
 }
 
 // THIS IS THE GLUE BETWEEN REACT AND REDUX
+// -- Whatever is returned here will show up as props inside of PlayerList
 function mapStateToProps(state) {
-    // Whatever is returned here will show up as props inside of PlayerList
-    console.log(state);
+    // console.log(state);
     return {
         players: state.players,
         currentPlayer: state.currentPlayer
