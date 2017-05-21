@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# React Tic Tac Toe
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is an application I built as my first dive into redux.
 
 ### Getting Started
 
