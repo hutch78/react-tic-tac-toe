@@ -1,0 +1,8 @@
+.game-board {
+}
+
+.game-board__row {
+    display: block;
+    overflow: hidden;
+    margin-bottom: 1rem;
+}
